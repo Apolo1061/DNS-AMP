@@ -16,7 +16,7 @@ Tener acceso Root
 
 ##  Como clonar el repositorio
 ```
-https://github.com/Apolo1061/NTP-ATTACK.git
+https://github.com/Apolo1061/DNS-AMP.git
 ```
 ```
 cd DNS-AMP
